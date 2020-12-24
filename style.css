@@ -35,6 +35,6 @@ body{
     height: 45px;
     border-radius: 50%;
     background: #000;
-    border: 10px solid #2196f3;
+    border: 10px solid red;
     box-sizing: border-box;
 }
