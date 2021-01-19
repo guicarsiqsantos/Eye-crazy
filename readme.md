@@ -29,8 +29,8 @@
 ```HTML
     <body>
         <div class="box">
-        <div class="eye"></div>
-        <div class="eye"></div>
+            <div class="eye"></div>
+            <div class="eye"></div>
         </div> 
     </body>
 ```
