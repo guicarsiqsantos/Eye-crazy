@@ -1,4 +1,6 @@
-# EYE CRAZY
+<h1 align="center">
+    EYE-CRAZY
+</h1>
 
 <p align="center">
     <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
